@@ -4,6 +4,17 @@ Welcome to the **Manual Testing Project** repository! This repository serves as 
 
 ---
 
+## 📚 Table of Contents
+
+1. [Repository Contents](#-repository-contents)  
+2. [Document Structure & Location](#-document-structure--location)  
+3. [Purpose](#-purpose)  
+4. [Tools & Technologies](#-tools--technologies-optional)  
+5. [Contributing](#-contributing)  
+6. [License](#-license)
+
+---
+
 ## 📁 Repository Contents
 
 ### 📝 Test Plans
@@ -18,11 +29,12 @@ Comprehensive test cases covering:
 - Functional testing
 - Regression testing
 - Exploratory scenarios
+
 Each test case includes:
-- Preconditions
-- Test steps
-- Expected vs. actual results
-- Pass/Fail status
+- Preconditions  
+- Test steps  
+- Expected vs. actual results  
+- Pass/Fail status  
 
 ### 🐞 Bug Reports / Defect Logs
 Organized logs including:
@@ -46,6 +58,22 @@ Additional resources such as:
 
 ---
 
+## 📂 Document Structure & Location
+
+| Folder / File                 | Description                                        |
+|-------------------------------|----------------------------------------------------|
+| `/test-plans/`                | Contains test plan documents                       |
+| `/test-cases/`                | Functional, regression, and exploratory test cases |
+| `/bug-reports/`               | Logged bugs with details and status                |
+| `/test-summary/`              | Summary reports with metrics and test results      |
+| `/templates/`                 | Reusable templates (test case, bug report, etc.)   |
+| `/checklists/`                | Smoke/sanity test checklists                       |
+| `/guidelines/`                | Best practices for manual testing                  |
+
+> All documents are provided in `.docx`, `.xlsx`, or `.pdf` formats for easy viewing and editing.
+
+---
+
 ## 🎯 Purpose
 
 This repository aims to:
@@ -57,20 +85,22 @@ This repository aims to:
 ---
 
 ## 🛠️ Tools & Technologies (Optional)
-> Depending on your project setup, you may use:
-- Excel / Google Sheets for test case management
-- JIRA / Bugzilla for defect tracking
-- TestLink / Zephyr for test planning
-- BrowserStack / local environments for testing
+
+Depending on your project setup, you may use:
+- **Excel / Google Sheets** – for test cases and execution logs  
+- **JIRA / Bugzilla** – for issue tracking  
+- **TestLink / Zephyr** – for test planning  
+- **BrowserStack / Local Test Environments** – for test execution
 
 ---
 
 ## 📬 Contributing
 
-We welcome contributions! If you'd like to suggest changes or add new documents:
-1. Fork the repository
-2. Create a feature branch
-3. Submit a pull request with a brief description
+We welcome contributions! To contribute:
+1. Fork the repository  
+2. Create a feature branch  
+3. Add your updates  
+4. Submit a pull request with a brief description
 
 ---
 
@@ -79,6 +109,3 @@ We welcome contributions! If you'd like to suggest changes or add new documents:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
-
-Feel free to customize this template to better suit your project's specific needs.
-
